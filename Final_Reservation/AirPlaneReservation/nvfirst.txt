@@ -1,0 +1,6 @@
+1	B	NO	noPas	
+2	B	NO	noPas	
+1	C	NO	noPas	
+2	C	NO	noPas	
+1	D	NO	noPas	
+2	D	NO	noPas	

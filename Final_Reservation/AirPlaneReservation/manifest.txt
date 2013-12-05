@@ -1,0 +1,6 @@
+1	A	YES	sean,beck	
+1	B	YES	manzoor,ahmed	
+2	B	YES	igor,sorokin	
+1	D	YES	bill,gates	
+1	E	YES	young	
+1	F	YES	tall	
